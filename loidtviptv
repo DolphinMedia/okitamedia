@@ -14,7 +14,7 @@ Liên hệ hợp tác : https://www.facebook.com/profile.php?id=100087788104508
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://loidtvcdn.b-cdn.net/stream/LoidTV-FEED/playlist.m3u8
 
-#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", Thể thao luồng sạch 2 HD
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", Thể thao luồng sạch 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://loidtvcdn.b-cdn.net/stream/LoidTV-FEED-HD/playlist.m3u8
 
