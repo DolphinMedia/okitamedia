@@ -19,7 +19,6 @@ http://171.238.181.52:18080/154_2.m3u8?AdaptiveType=HLS
 http://171.238.181.52:18080/192_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="VTV" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV2 50fps
 http://103.124.94.248/vtv2?token=live
-
 #EXTINF:-1 group-title="VTV" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV3 50fps
 http://103.124.94.248/vtv3?token=live
 
@@ -195,9 +194,12 @@ https://tth.vn/htvcphim
 https://tth.vn/htvcplus
 
 #----------*#| Thể thao *----------#
-#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", Thể thao luồng sạch 1 FHD
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", Loid Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita/index.m3u8
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", Loid Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita_channel2/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png", SKY SPORT F1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
