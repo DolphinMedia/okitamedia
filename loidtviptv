@@ -17,6 +17,10 @@ Tele : t.me/quangcansa123
 http://171.238.181.52:18080/154_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="#| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VTV2_14-16.06.2023.png/revision/latest?cb=20230928042852&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV2 HD
 http://171.238.181.52:18080/192_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="VTV" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV2 50fps
+https://live-bd2.tv360.vn/QbjgmJR7Fm7K3eNWHwcWdw/1719061809/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8?uid=14.243.210.255&manifestfilter=video_bitrate:1-5767168
+#EXTINF:-1 group-title="VTV" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV3 50fps
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/vtv3/index.m3u8
 #EXTINF:-1 group-title="#| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VTV3_01.11.2022-nay.png/revision/latest?cb=20240325104819&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV3 HD
 http://171.238.181.52:18080/155_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="#| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTV4_21.02.2023-nay.png/revision/latest?cb=20230928042845&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV4 HD
@@ -151,11 +155,6 @@ https://tth.vn/tv360plus1
 #EXTVLCOPT:http-user-agent=VMT
 https://tth.vn/tv360plus2
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV2 50fps
-https://live-bd2.tv360.vn/QbjgmJR7Fm7K3eNWHwcWdw/1719061809/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8?uid=14.243.210.255&manifestfilter=video_bitrate:1-5767168
-
-#EXTINF:-1 group-title="VTV" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV3 50fps
-https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/vtv3/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png", VTC 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
