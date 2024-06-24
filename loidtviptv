@@ -109,30 +109,41 @@ https://tth.vn/btv5hd
 #----------*#| VTC*----------#
 #EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/VTC1_27.12.2018-nay.png/revision/latest?cb=20240203141645&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC1 HD
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/90/VTC2.png/revision/latest?cb=20220626043403&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC2 HD
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc2
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC2
 #EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest?cb=20230801112501&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC3 HD
 https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc3
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/VTC4.png/revision/latest?cb=20201212065736&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC4 HD
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc4
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/VTC5.png/revision/latest?cb=20201123091837&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC5 HD
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc5
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/46/VTC6.png/revision/latest?cb=20201126044342&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC6 HD
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc6
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/VTC7_logo.png/revision/latest?cb=20201125094038&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC7 HD - Today TV
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc7
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/VTC8_logo.png/revision/latest?cb=20220929154146&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC8 HD
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc8
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/98/VTC9.png/revision/latest?cb=20201126044907&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC9 HD
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc9
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/78/VTC10.png/revision/latest?cb=20220626043356&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC10 HD
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc10
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/VTC11.png/revision/latest?cb=20220626043400&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC11 - Kids & Family TV
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc11
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/VTC14.png/revision/latest?cb=20201125132702&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC14 HD
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc14
-#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTC16_logo.png/revision/latest?cb=20201125134909&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC16 HD
-https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc16
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc4-yeah1-family-hd/${start}/${offset}", VTC4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC4
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc5-hd/${start}/${offset}", VTC5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC5
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tth.vn/VTC6HD
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC7
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc8/${start}/${offset}", VTC8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc9-hd/${start}/${offset}", VTC9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC9
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC10HD
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC11
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc14-hd/${start}/${offset}", VTC14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC14
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC16
 #----------*#| HTV/HTVC*----------#
 #EXTINF:-1 group-title="#| HTV/HTVC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/HTV1_logo_2019-nay.png/revision/latest?cb=20231227101321&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",HTV1 HD
 https://vc.101vn.com/htv/htvcmb.php?id=2631
