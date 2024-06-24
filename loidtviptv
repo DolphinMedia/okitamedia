@@ -32,6 +32,7 @@ http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="#| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/VTV5_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20200608143417&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV5 HD - Tây Nguyên
 http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="#| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/84/VTV_C%E1%BA%A7n_Th%C6%A1_logo_b%E1%BA%A3n_tr%E1%BB%B1c_ti%E1%BA%BFp.png/revision/latest?cb=20231017095057&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV Cần Thơ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://171.238.181.52:18080/156_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 group-title="#| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/VTV7_logo_06.02.2016.png/revision/latest?cb=20221213075109&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV7 HD
 https://cdn1.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv7/index.m3u8
