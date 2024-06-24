@@ -11,40 +11,6 @@ Nhu cầu hợp tác liên hệ qua
 Facebook : https://www.facebook.com/profile.php?id=100087788104508 
 Tele : t.me/quangcansa123   
 *********************************************
-
-#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", Thể thao luồng sạch 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://loidtvcdn.b-cdn.net/stream/LoidTV-FEED/playlist.m3u8
-
-#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", Thể thao luồng sạch 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://loidtvcdn.b-cdn.net/stream/LoidTV-FEED-HD/playlist.m3u8
-
-#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png", SKY SPORT F1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=108&extension=ts&play_token=dlp4N9jzjs
-
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://tth.vn/tv360plus1
-#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
-#EXTVLCOPT:http-user-agent=VMT
-https://tth.vn/tv360plus2
-
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV2 50fps
-https://live-bd2.tv360.vn/QbjgmJR7Fm7K3eNWHwcWdw/1719061809/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8?uid=14.243.210.255&manifestfilter=video_bitrate:1-5767168
-
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV3 50fps
-https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/vtv3/index.m3u8
-
-#EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png", VTC 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
-
-#EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png", VTC 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/VTC3
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTVLCOPT:http-user-agent=VMT
 http://171.238.181.52:18080/154_2.m3u8?AdaptiveType=HLS
@@ -73,6 +39,36 @@ https://cdn1.tvmienphi.live:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/
 https://cdn1.tvmienphi.live:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 group-title="#| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/VTV9_logo_%28%C3%A1p_d%E1%BB%A5ng_cho_s%C3%B3ng_HD%29.png/revision/latest?cb=20211230021601&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV9 HD
 https://cdn1.tvmienphi.live:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv9/index.m3u8
+
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", Thể thao luồng sạch 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png", SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=108&extension=ts&play_token=dlp4N9jzjs
+
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tth.vn/tv360plus1
+#EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
+#EXTVLCOPT:http-user-agent=VMT
+https://tth.vn/tv360plus2
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV2 50fps
+https://live-bd2.tv360.vn/QbjgmJR7Fm7K3eNWHwcWdw/1719061809/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8?uid=14.243.210.255&manifestfilter=video_bitrate:1-5767168
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | VTV3 50fps
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/vtv3/index.m3u8
+
+#EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png", VTC 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+
+#EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png", VTC 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tth.vn/VTC3
+
 
 
 #EXTINF:-1 group-title="#| Sports" tvg-logo="https://i.ibb.co/0MRH3Yf/Sky-Sports-Main-Event-Stacked.png",Sky Sports Main Event HD
