@@ -11,6 +11,13 @@ Nhu cầu hợp tác liên hệ qua
 Facebook : https://www.facebook.com/profile.php?id=100087788104508 
 Tele : t.me/quangcansa123   
 *********************************************
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", Loid Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita/index.m3u8
+
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", Loid Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita_channel2/index.m3u8
 
 #----------*#| VTV*----------#
 #EXTINF:-1 group-title="#| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20240325104818&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV1 HD
@@ -194,12 +201,6 @@ https://tth.vn/htvcphim
 https://tth.vn/htvcplus
 
 #----------*#| Thể thao *----------#
-#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", Loid Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita/index.m3u8
-#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", Loid Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://khanggtivi.xyz/LoidForgerIPTV/yeubeloid123/okita_channel2/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png", SKY SPORT F1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
