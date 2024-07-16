@@ -12,5 +12,9 @@ Facebook : https://www.facebook.com/profile.php?id=100087788104508
 Tele : t.me/quangcansa123   
 *********************************************
 
-#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", MUTV
-http://780941758672215868.ofk0601.xyz:80/play/mi1218154/u7u@3eet8wg/215868.ts
+#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png", FR: Bein Sports 1 HD
+https://hqth.me/LoidTV-BeIN-SP-1-HD
+
+#EXTINF:-1 group-title="BeIN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png", FR: Bein Sports 2 HD
+https://hqth.me/LoidTV-BeIN-SP-2-HD
+
