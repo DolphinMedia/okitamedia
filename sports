@@ -23,3 +23,7 @@ https://hqth.me/bbconeloid
 #EXTINF:-1 group-title="Truyền hình Anh Quốc" tvg-logo="https://pbs.twimg.com/profile_images/1450745843603083267/uSloYi8l_400x400.jpg", UK: BBC ONE (Scotland)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://hqth.me/bbconescotland-loid
+
+#EXTINF:-1 group-title="Truyền hình Mỹ" tvg-logo="https://digitalshift-assets.sfo2.cdn.digitaloceanspaces.com/pw/006a5c15-02cf-4dbe-bb88-ff4c5ab56be8/p-0f700dfb-3717-46ef-837c-9f54b13bb5a0/1682081748-full.png", US: CBS Sports Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/LoidTV-CBS-HD
