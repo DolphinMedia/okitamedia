@@ -9,6 +9,18 @@ Nhu cầu hợp tác liên hệ qua
 Facebook : https://www.facebook.com/profile.php?id=100087788104508 
 Tele : https://t.me/demdemblv  
 *********************************************
+#EXTINF:-1 group-title="Amazon Prime Sports" tvg-logo="https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-13.fit_scale.size_760x427.v1582749138.png", DE: Amazon Prime Sports
+https://hqth.me/Amazon-Prime-Sports-DE
+
+#EXTINF:-1 group-title="Amazon Prime Sports" tvg-logo="https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-13.fit_scale.size_760x427.v1582749138.png", FR: Amazon Prime Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/Amazon-Prime-Sports-1
+
+#EXTINF:-1 group-title="Amazon Prime Sports" tvg-logo="https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-13.fit_scale.size_760x427.v1582749138.png", FR: Amazon Prime Sports 2
+https://hqth.me/Amazon-Prime-Sports-2
+
+#EXTINF:-1 group-title="Amazon Prime Sports" tvg-logo="https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-13.fit_scale.size_760x427.v1582749138.png", FR: Amazon Prime Sports 3
+https://hqth.me/Amazon-Prime-Sports-3
 
 #EXTINF:-1 group-title="Truyền hình Pháp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png", FR: Bein Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
