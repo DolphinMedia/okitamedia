@@ -9,6 +9,7 @@ Nhu cầu hợp tác liên hệ qua
 Tele : https://t.me/demdemblv
 *********************************************
 #EXTINF:-1 group-title="Kênh 4K và tiếng gốc" tvg-logo="https://archive.org/download/sky-sports-main-event-uhd//Sky_Sports_Main_Event_UHD.png", UK: Sky Sports Main Event UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://hqth.me/SkySP-MEUHD-Loid
 
 #EXTINF:-1 group-title="Amazon Prime Sports" tvg-logo="https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-13.fit_scale.size_760x427.v1582749138.png", DE: Amazon Prime Sports
