@@ -1,29 +1,382 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLaSAj5UInZ-C3I2Kru0MfocBFD1rJFakuA&s", Sky Sports Main Event [UK]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://127.0.0.1:6878/ace/getstream?id=00ec28a5137eff6e4274f28391e9577bc885f32b
+#EXTINF:-1 group-title="In4" tvg-logo="https://m.media-amazon.com/images/I/71rGcAPlySL.jpg", Intro
+https://hqth.me/LoidTV-ITRN
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png", Sky Sports Premier League [UK]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+*********************************************
+LoidTV | Đừng copy luồng nếu không muốn làm chó
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg", Sky Sports Football [UK]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+Vui lòng không sao chép luồng khi chưa có sự đồng ý của chủ list
+Nhu cầu hợp tác liên hệ qua
+Facebook : https://www.facebook.com/profile.php?id=100087788104508 
+Tele : t.me/quangcansa123   
+*********************************************
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg", #backup Sky Sports Football [UK]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hqth.me/LoidSkySportsFootball
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", LoidTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/LoidTV-Luong1
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-f1-uk.svg", Sky Sports F1 [DE]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", LoidTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/LoidTV-Luong2
 
-#EXTINF:-1 group-title="Sky Sports" tvg-logo="https://sender.epglogos.de/302x190_w/623.png", Sky Sports Bundesliga [DE]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 tvg-id="spotv1" group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/298570.ts
+#EXTINF:-1 tvg-id="spotv2" group-title="Trực tiếp thể thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://154.6.191.61:8070/live/e9cd5f24/079fd2c9/298571.ts
 
-#EXTINF:-1 group-title="FOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLaSAj5UInZ-C3I2Kru0MfocBFD1rJFakuA&s", Fox
+#----------*❤️| VTV*----------#
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20240325104818&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtv1/index.m3u8
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VTV2_14-16.06.2023.png/revision/latest?cb=20230928042852&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtv2/index.m3u8
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/33/VTV3_01.11.2022-nay.png/revision/latest?cb=20240325104819&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtv3/index.m3u8
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/VTV4_21.02.2023-nay.png/revision/latest?cb=20230928042845&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/62.ts
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/VTV5_logo_%28VTV5_T%C3%A2y_Nguy%C3%AAn%29.png/revision/latest?cb=20240115121001&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/VTV5_T%C3%A2y_Nam_B%E1%BB%99.png/revision/latest?cb=20200608143410&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV5 HD - Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/43.ts
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/VTV5_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20200608143417&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV5 HD - Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/44.ts
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/84/VTV_C%E1%BA%A7n_Th%C6%A1_logo_b%E1%BA%A3n_tr%E1%BB%B1c_ti%E1%BA%BFp.png/revision/latest?cb=20231017095057&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV Cần Thơ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtv6/index.m3u8
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/VTV7_logo_06.02.2016.png/revision/latest?cb=20221213075109&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/64.ts
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/VTV8_logo_%28s%E1%BB%AD_d%E1%BB%A5ng_t%E1%BB%AB_ch%C6%B0%C6%A1ng_tr%C3%ACnh_Th%E1%BB%9Di_s%E1%BB%B1%29.png/revision/latest?cb=20220206052346&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/65.ts
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/VTV9_logo_%28%C3%A1p_d%E1%BB%A5ng_cho_s%C3%B3ng_HD%29.png/revision/latest?cb=20211230021601&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/66.ts
+#----------*♥️| VTVCab*----------#
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/32/ON_Vie_Gi%E1%BA%A3i_tr%C3%AD.png/revision/latest?cb=20230113092404&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Vie Giải Trí HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab1/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3e/ON_Phim_Vi%E1%BB%87t_logo.png/revision/latest?cb=20230922042146&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Phim Việt HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab2/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/ON_Sports_HD_logo_2022.png/revision/latest?cb=20230813032449&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab3/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/ON_Movies_logo_17-05-2023.png/revision/latest?cb=20230518112918&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Movies HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab4/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/ON_E_Channel.png/revision/latest?cb=20231122023306&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON EChannel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab5/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab6/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/ON_O2TV_logo_17-05-2023.png/revision/latest?cb=20230518113011&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON O2TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab7/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/ON_BiBi_logo_17-05-2023.png/revision/latest?cb=20230518112605&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON BiBi HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab8/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0a/ON_Info_TV_logo.png/revision/latest?cb=20240120043227&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Info TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab9/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/ON_Cine_logo_17-05-2023.png/revision/latest?cb=20230518142325&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Cine HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab10/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/ON_Style_TV.png/revision/latest?cb=20230301044252&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Style HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab12/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Home_Shopping.png/revision/latest/scale-to-width-down/200?cb=20240705091858&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Home Shopping SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/27/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/ON_Music_logo.png/revision/latest?cb=20221211044556&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Music HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab15/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Football_logo_2022.png/revision/latest?cb=20220311023748&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab16/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest?cb=20240614010001&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Trending HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab17/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest?cb=20220403050655&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab18/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/ON_Vie_Dramas.png/revision/latest?cb=20230903002247&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Vie DRAMAS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab19/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/ON_VFamily_logo_15-05-2023.png/revision/latest?cb=20231224011606&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON VFamily HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab20/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/ON_Kids_logo.png/revision/latest?cb=20221221112957&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Kids HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/179/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/ON_Life.png/revision/latest?cb=20221211044714&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Life HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://wintv.fun/360/188/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/ON_Golf_logo_2022.png/revision/latest?cb=20220311023800&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Golf HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab23/index.m3u8
+#EXTINF:-1 group-title="♥️| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/BTV5_ON_Sports_Action_logo_2023.png/revision/latest?cb=20230322105340&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",BTV5 HD - ON Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
+#----------*#| VTC*----------#
+#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/VTC1_27.12.2018-nay.png/revision/latest?cb=20240203141645&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC1 HD
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+https://tth.vn/VTC2
+#EXTINF:-1 group-title="#| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest?cb=20230801112501&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTC3 HD
+https://cdn1.tvmienphi.live:8444/vtcnow.php?id=vtc3
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc4-yeah1-family-hd/${start}/${offset}", VTC4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC4
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc5-hd/${start}/${offset}", VTC5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC5
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://tth.vn/VTC6HD
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC7
+#EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc8/${start}/${offset}", VTC8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc9-hd/${start}/${offset}", VTC9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC9
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC10HD
+#EXTINF:-1 tvg-id="vtc11" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC11
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc14-hd/${start}/${offset}", VTC14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC14
+#EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/VTC16
+#----------*#| HTV/HTVC*----------#
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vc.101vn.com/htv/htvcmb.php?id=2669
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tth.vn/HTV3HD
+#EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV Key
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vc.101vn.com/htv/htvcmb.php?id=2528
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD (TV360)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/HTV7HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vc.101vn.com/htv/htvcmb.php?id=2667
+
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/HTVTHETHAOFHD
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/htvcthuanviet
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTVC" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/htvcgiadinh
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTVC" tvg-logo="https://cdn.hqth.me/logo/thumbs/57.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-phu-nu/${start}/${offset}", HTVC Phụ nữ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/htvcphunu
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTVC" tvg-logo="https://cdn.hqth.me/logo/thumbs/58.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", HTVC Du lịch Cuộc sống HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/htvcdulich
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTVC" tvg-logo="https://cdn.hqth.me/logo/thumbs/59.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-ca-nhac/${start}/${offset}", HTVC Ca nhạc HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/htvccanhac
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTVC" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/htvcphim
+#EXTINF:-1 tvg-id="htvcplushd" group-title="HTVC" tvg-logo="https://cdn.hqth.me/logo/thumbs/61.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-plus/${start}/${offset}", HTVC Plus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/htvcplus
+
+#----------*#| Thể thao *----------#
+
+#EXTINF:-1 group-title="Trực tiếp thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png", SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=108&extension=ts&play_token=dlp4N9jzjs
+
+#EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live-bd2.tv360.vn/jT86GsYSNQdY5J02Pe96kA/1721045229/manifest/sukien/playlist_1080p-5M.m3u8?uid=19680&manifestfilter=video_bitrate:1-5767168
+#EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
+#EXTVLCOPT:http-user-agent=VMT
+https://live-bd2.tv360.vn/mAti6IpAznOWeR2s1j7LLg/1721045295/manifest/u23-dubaicup2/playlist_1080p-5M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=19680
+#EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
+#EXTVLCOPT:http-user-agent=VMT
+https://live-evg4.tv360.vn/-dpCUcXkgYbpEpnes0fZfg/1721045403/manifest/Su_Kien_3/playlist_1080p.m3u8
+#EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
+#EXTVLCOPT:http-user-agent=VMT
+https://live-bd2.tv360.vn/sOjmLSUUivOsK4esqAJiGw/1721045493/manifest/Su_Kien_4/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=19680
+#EXTINF:-1 group-title="TV360" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
+#EXTVLCOPT:http-user-agent=VMT
+http://42.114.42.98:2052/udp/225.1.2.244:30120
+
+
+#EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png", VTC 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+
+#EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png", VTC 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tth.vn/VTC3
+
+
+
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://i.ibb.co/0MRH3Yf/Sky-Sports-Main-Event-Stacked.png",Sky Sports Main Event HD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=84&extension=ts&play_token=waLxJFq8yU
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png",Sky Sports FOOTBALL FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163956&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=143&extension=ts&play_token=exu9fIzDRE
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163972&extension=ts&play_token=CJx7sVJigY
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png",TNT Sport 1 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=118&extension=ts&play_token=dVAWcBbpZb
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png",TNT Sport 2 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=121&extension=ts&play_token=jo3dUYqkvN
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://media.info/l/o/1/1491.1690027975.png", TNT Sport 4 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=127&extension=ts&play_token=uJYjpw2tu8
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png?20170228135319",Beinsports 1 HD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=113327&extension=ts&play_token=0WqQ4BEATw
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png",Beinsports 2 SD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=113330&extension=ts&play_token=o9LnNu0mYa
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png",CANAL+ FOOT SD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=113826&extension=ts&play_token=scNVJ1HLmF
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/IMG_20200801_085604.jpg/revision/latest?cb=20200801005853",One Sport+ HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://www.delta.nl/media/1657/ziggo-sport-voetbal-delta.png?anchor=center&mode=crop&width=300&rnd=132603728886170000",Ziggo Sport Voetbal HD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442051&extension=ts&play_token=ok4kbOxSXU
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg",Ziggo Sport Select HD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=442053&extension=ts&play_token=75becWJi0T
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png", Tennis Channel HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png", RMC Sport 1 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=113687&extension=ts&play_token=e0dkPXiAIf
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/1280px-Polsat_Sport_Premium_1_2021_gradient.svg.png", Polsat Sport Premium 1 HD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167782&extension=ts&play_token=FuFcwVWrsx
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/polsat_sport_premium_2.png", Polsat Sport Premium 2 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167746&extension=ts&play_token=Xx9bD9JLKg
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Polsat_Sport_Premium_3_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_3_PPV_Poziome_2021.svg.png", Polsat Sport Premium 3 HD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167784&extension=ts&play_token=I4vdQ1tDrX
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Polsat_Sport_Premium_4_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_4_PPV_Poziome_2021.svg.png", Polsat Sport Premium 4 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167749&extension=ts&play_token=LvVCivnYqy
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ux44NnIslij-dobgt9MjL8yGtk82RxqcuHUCO1-k&s", Polsat Sport Premium 5 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167751&extension=ts&play_token=7MCBm4zn4t
+#EXTINF:-1 group-title="#| Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Polsat_Sport_Premium_6_PPV_Poziome_2021.svg/2560px-Polsat_Sport_Premium_6_PPV_Poziome_2021.svg.png", Polsat Sport Premium 6 FHD
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=167753&extension=ts&play_token=xFBsSbXCxx
+
+
+#EXTINF:-1 group-title="Vào Cabin Thôi" tvg-logo="https://hqth.me/vao-cabin-thoi-trailer-media", Vào Cabin Thôi Trailer
+https://hqth.me/vao-cabin-thoi-trailer
+
+#EXTINF:-1 group-title="Vào Cabin Thôi" tvg-logo="https://hqth.me/vao-cabin-thoi-tap1-media", Vào Cabin Thôi | Tập 1 : Sự khởi đầu
+https://hqth.me/vao-cabin-thoi-tap1
+
+#EXTINF:-1 group-title="Vào Cabin Thôi" tvg-logo="https://hqth.me/vao-cabin-thoi-tap2-media", Vào Cabin Thôi | Tập 2 : 1 chọi 100
+https://hqth.me/vao-cabin-thoi-tap2
+
+#EXTINF:-1 group-title="Vào Cabin Thôi" tvg-logo="https://hqth.me/vao-cabin-thoi-tap2-media", Vào Cabin Thôi | Tập 3 : Lửa thử vàng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://www.youtube.com/watch?v=hm8NMSK7b-0
+
+#EXTINF:-1 group-title="Vào Cabin Thôi" tvg-logo="https://hqth.me/vao-cabin-thoi-tap2-media", Vào Cabin Thôi | Tập 4 : Trận chung kết
+https://hqth.me/vaocabinth4
+
+#EXTINF:-1 group-title="Sơn Tùng Music" tvg-logo="https://i.scdn.co/image/ab67616d0000b273a1bc26cdd8eecd89da3adc39", SƠN TÙNG M-TP | ĐỪNG LÀM TRÁI TIM ANH ĐAU
+https://hqth.me/SonTung-DLTTAD
+
+#EXTINF:-1 group-title="Liên Khúc Tuấn Vũ" tvg-logo="https://hqth.me/TuanVuLK1-Media", Liên Khúc Tuấn Vũ 1 : Ngày Xưa Anh Nói
+https://hqth.me/TuanVuLK1
+
+#EXTINF:-1 group-title="Liên Khúc Tuấn Vũ" tvg-logo="https://hqth.me/TuanVuLK2-Media", Liên Khúc Tuấn Vũ 2 : Thành Phố Buồn
+https://hqth.me/TuanVuLK2
+
+#EXTINF:-1 group-title="Liên Khúc Tuấn Vũ" tvg-logo="https://hqth.me/TuanVuLK-CoBongMay-Media", Tuấn Vũ : Liên Khúc Bông Cỏ May
+https://hqth.me/TuanVuLK-CoBongMay
+
+#EXTINF:-1 group-title="Phan Mạnh Quỳnh" tvg-logo="https://i1.sndcdn.com/artworks-ymzwaais4G9C9wOI-hzmjWQ-t500x500.jpg", Vợ Người Ta (Đám Cưới Version) | Phan Mạnh Quỳnh [HIỆN VẪN CHƯA TRẢ TIỀN]
+https://bom.so/VONGUOITA-DAMCUOIVER-CHUATRATIEN
+
+#EXTINF:-1 group-title="Phan Mạnh Quỳnh" tvg-logo="https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/f/3/1/e/f31efb0da9bc984d7246866e6d529d78.jpg", SAO CHA KHÔNG? | PHAN MẠNH QUỲNH (OFFICIAL MV)
+https://bom.so/SaoChaKhong
+
+#EXTINF:-1 group-title="Phan Mạnh Quỳnh" tvg-logo="https://photo-resize-zmp3.zadn.vn/w600_r1x1_jpeg/cover/6/5/9/c/659cbf95e803b360e50c5cebac0aad78.jpg", TÌNH NHỚ | PHAN MẠNH QUỲNH (OFFICIAL MV) | OST TRỊNH CÔNG SƠN X EM VÀ TRỊNH
+https://bom.so/tinhnho
+
+
+#EXTINF:-1 group-title="Phan Mạnh Quỳnh" tvg-logo="https://i.scdn.co/image/ab67616d0000b27387470a8014c00932cd36d841", SAU LỜI TỪ KHƯỚC | PHAN MẠNH QUỲNH
+https://bom.so/AnthemephimsechtrahinhMAI
+
+
+#EXTINF:-1 group-title="Cái đầu tiên | Thắng NGỌT" tvg-logo="https://bizweb.dktcdn.net/100/411/628/products/img-7323-jpeg.jpg?v=1687619300910", XIN LỖI | THẮNG
+https://bom.so/XinLoi-Thang-NGOT
+
+#EXTINF:-1 group-title="Cái đầu tiên | Thắng NGỌT" tvg-logo="https://bizweb.dktcdn.net/100/411/628/products/img-7323-jpeg.jpg?v=1687619300910", TRƯỚC KHI EM TỒN TẠI | THẮNG
+https://bom.so/truockhiemtontai
+
+
+#EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg",VOH FM 95.6
+https://strm.voh.com.vn/radio/channel1/chunklist_w1203304311.m3u8
+
+#EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/06/voh-am610-512x512-104316.png",VOH AM 610
+https://strm.voh.com.vn/radio/channel2/chunklist_w558517770.m3u8
+
+#EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK WORLD
+https://b-nhkwlive-rj.nhkworld.jp/hls/live/2003468-b/rj-7ch/index_07.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://static.wikia.nocookie.net/bbc/images/f/f9/BBC_Radio_1_2022.png/revision/latest?cb=20220518194552", BBC Radio 1
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://static.wikia.nocookie.net/bbc/images/f/f9/BBC_Radio_1_2022.png/revision/latest?cb=20220518194552", BBC Radio 1 | Backup 1
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=96000-268399981.ts
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://cdn-profiles.tunein.com/s24940/images/logog.jpg?t=857", BBC Radio 2
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/BBC_Radio_3_2022.svg", BBC Radio 3
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920x1080/p0cbjc9r.jpg", BBC Radio 4
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://i.guim.co.uk/img/static/sys-images/Media/Pix/pictures/2010/4/9/1270834215728/BBC-Radio-1Xtra-logo-001.jpg?width=465&dpr=1&s=none", BBC 1Xtra
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://media.info/l/o/3/395.1655053740.png", BBC Radio Manchester
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/services/bbc_london/blocks-colour-black_1920x1080.png",BBC London
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN
+https://aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com/v1/manifest/30ead7055f8b8e1f2f04add745f139b184df6925/production/546c7db1-9ed2-4f96-96ab-69b6afd107e8/0.m3u8
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png",CNN (SV2)
+https://chunks.tunein.com/live/newsfree/cnnfree/1213329/4ee8d54fa2e742f9a3a8f0d28abf5a10/aac_adts/96k/pri-aac_adts96-1712849145-5990-15247.aac
+
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1676378350/brand_manager/stations/zxxzzncu2isgdogx8qiq.png", KISS FM UK
+https://s.net.vn/KISS-FM-UK
