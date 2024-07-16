@@ -39,3 +39,18 @@ https://hqth.me/bbconescotland-loid
 #EXTINF:-1 group-title="Truyền hình Mỹ" tvg-logo="https://digitalshift-assets.sfo2.cdn.digitaloceanspaces.com/pw/006a5c15-02cf-4dbe-bb88-ff4c5ab56be8/p-0f700dfb-3717-46ef-837c-9f54b13bb5a0/1682081748-full.png", US: CBS Sports Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://hqth.me/LoidTV-CBS-HD
+
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_425_305", HK: Now Sports EPL 1 FHD
+https://hqth.me/HK-Now-EPL1-Loid
+
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_425_305", HK: Now Sports EPL 2 FHD
+https://hqth.me/HK-Now-EPL2-Loid
+
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", UK: Sky Sports EPL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/SkySP-EPL-LoidTV
+
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png", CANAL+ Premier League FHD 50fps
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/CanalPlusEPL-Loid
+
