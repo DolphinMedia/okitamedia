@@ -45,9 +45,13 @@ https://hqth.me/HK-Now-EPL1-Loid
 #EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_425_305", HK: Now Sports EPL 2 FHD
 https://hqth.me/HK-Now-EPL2-Loid
 
-#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", UK: Sky Sports EPL HD
+#EXTINF:-1 group-title="Truyền hình Anh Quốc" tvg-logo="https://e0.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==", UK: Sky Sports EPL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://hqth.me/SkySP-EPL-LoidTV
+
+#EXTINF:-1 group-title="Truyền hình Anh Quốc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLaSAj5UInZ-C3I2Kru0MfocBFD1rJFakuA&s", UK: Sky Sports Main Event FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/MainEventSky-Loid
 
 #EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png", CANAL+ Premier League FHD 50fps
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
