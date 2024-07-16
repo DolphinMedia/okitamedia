@@ -6,8 +6,7 @@ https://hqth.me/LoidTV-ITRN
 *********************************************
 Vui lòng không sao chép luồng khi chưa có sự đồng ý của chủ list
 Nhu cầu hợp tác liên hệ qua
-Facebook : https://www.facebook.com/profile.php?id=100087788104508 
-Tele : https://t.me/demdemblv  
+Tele : https://t.me/demdemblv
 *********************************************
 #EXTINF:-1 group-title="Amazon Prime Sports" tvg-logo="https://i.pcmag.com/imagery/reviews/02dIsBiVpmVTMeXkrKxWy0W-13.fit_scale.size_760x427.v1582749138.png", DE: Amazon Prime Sports
 https://hqth.me/Amazon-Prime-Sports-DE
@@ -54,3 +53,10 @@ https://hqth.me/SkySP-EPL-LoidTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://hqth.me/CanalPlusEPL-Loid
 
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://hqth.me/Kplus-SP-1-Loid", K+ Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/Kplus-SP-1-Loid
+
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://hqth.me/Kplus-SP-2-Loid", K+ Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/Kplus-SP-2-Loid
