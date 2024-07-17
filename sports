@@ -8,6 +8,7 @@ Vui lòng không sao chép luồng khi chưa có sự đồng ý của chủ lis
 Nhu cầu hợp tác liên hệ qua
 Tele : https://t.me/demdemblv
 *********************************************
+
 #EXTINF:-1 group-title="Kênh 4K và tiếng gốc" tvg-logo="https://archive.org/download/sky-sports-main-event-uhd//Sky_Sports_Main_Event_UHD.png", UK: Sky Sports Main Event UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://hqth.me/SkySP-MEUHD-Loid
@@ -60,11 +61,3 @@ https://hqth.me/MainEventSky-Loid
 #EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png", CANAL+ Premier League FHD 50fps
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://hqth.me/CanalPlusEPL-Loid
-
-#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://hqth.me/Kplus-SP-1-Loid", K+ Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://hqth.me/Kplus-SP-1-Loid
-
-#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://hqth.me/Kplus-SP-2-Loid", K+ Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://hqth.me/Kplus-SP-2-Loid
