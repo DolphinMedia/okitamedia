@@ -61,3 +61,11 @@ https://hqth.me/MainEventSky-Loid
 #EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png", CANAL+ Premier League FHD 50fps
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://hqth.me/CanalPlusEPL-Loid
+
+#EXTINF:-1 group-title="Formula 1" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png", UK: Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/SkyF1-UK-Loid
+
+#EXTINF:-1 group-title="Formula 1" tvg-logo="https://e0.365dm.com/tvlogos/channels/1306-Logo.png", UK: Sky Sports F1 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://hqth.me/SkyF1UHD-UK-Loid
