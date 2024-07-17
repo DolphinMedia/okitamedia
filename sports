@@ -8,13 +8,13 @@ Vui lòng không sao chép luồng khi chưa có sự đồng ý của chủ lis
 Nhu cầu hợp tác liên hệ qua
 Tele : https://t.me/demdemblv
 *********************************************
-#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/06/936c74de-c5dc-33bc-9a9c-2ea4edaaf577.png?bf=0&f=png&p=true&q=60&w=360", ES: EuroSport 1
+#EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/06/936c74de-c5dc-33bc-9a9c-2ea4edaaf577.png?bf=0&f=png&p=true&q=60&w=360", UK: EuroSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://hqth.me/EuroSp1-Loid-ES
+https://hqth.me/Loid-EuroSP1
 
 #EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://eu1-prod-images.disco-api.com/2022/06/28/24a5a2a3-4b8e-4142-b1bc-40a0a182149d.png?bf=0&f=png&p=true&q=60&w=360", UK: EuroSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://hqth.me/EuroSp2-Loid
+https://hqth.me/Loid-EuroSP2
 
 
 #EXTINF:-1 group-title="Kênh 4K và tiếng gốc" tvg-logo="https://archive.org/download/sky-sports-main-event-uhd//Sky_Sports_Main_Event_UHD.png", UK: Sky Sports Main Event UHD
