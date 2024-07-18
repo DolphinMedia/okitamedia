@@ -75,6 +75,18 @@ https://hqth.me/bbconescotland-loid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://hqth.me/LoidTV-CBS-HD
 
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", SG: Hub Premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://hqth.me/Loid-Hub-Pre-1
+
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", SG: Hub Premier 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://hqth.me/Loid-Hub-Pre-2
+
+#EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-02-06/826b81ee9b6e365d81299dce5af00d28.webp", SG: Hub Premier 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://hqth.me/Loid-Hub-Pre-3
+
 #EXTINF:-1 group-title="Ngoại Hạng Anh" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_425_305", HK: Now Sports EPL 1 FHD
 https://hqth.me/HK-Now-EPL1-Loid
 
