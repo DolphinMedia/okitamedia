@@ -9,7 +9,16 @@ Nhu cầu hợp tác liên hệ qua
 Tele : https://t.me/demdemblv
 *********************************************
 
-#EXTM3U
+
+#EXTINF:-1 group-title="NBA Summer League",  (03:30 | 19/7) :  Denver Nuggets vs Indiana Pacers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/79545#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="NBA Summer League",  (05:00 | 19/7) : New Orleans Pelicans vs Memphis Grizzlies 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/20073#checkedby:alliptvlinks.com
+
+
 #EXTINF:-1 group-title="VBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/VBA_Logo_2023.svg/1200px-VBA_Logo_2023.svg.png", Hanoi Buffalo vs Nha Trang Dolphins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
