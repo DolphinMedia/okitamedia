@@ -9,9 +9,9 @@ Nhu cầu hợp tác liên hệ qua
 Tele : https://t.me/demdemblv
 *********************************************
 
-#EXTINF:-1 group-title="VBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/VBA_Logo_2023.svg/1200px-VBA_Logo_2023.svg.png", Hanoi Buffalo vs Nha Trang Dolphins
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-https://hqth.me/xVX
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", Hanoi Buffalo vs Nha Trang Dolphins
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://api.wintv.me/vtvcab18/index.m3u8
 
 #EXTINF:-1 group-title="ATP250 Bastad Open" tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/10cam_euro.png", ThapCam | Cameron Norrie vs Rafael Nadal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
