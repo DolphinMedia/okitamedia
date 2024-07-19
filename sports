@@ -9,9 +9,6 @@ Nhu cầu hợp tác liên hệ qua
 Tele : https://t.me/demdemblv
 *********************************************
 
-#EXTINF:-1 group-title="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE luồng Sportsnet ONE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-
 #EXTINF:-1 group-title="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE luồng Sportsnet ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://tv14s.xyz:8080/WzD7qQ/424962/47379#checkedby:alliptvlinks.com
