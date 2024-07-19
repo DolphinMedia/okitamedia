@@ -8,16 +8,21 @@ Vui lòng không sao chép luồng khi chưa có sự đồng ý của chủ lis
 Nhu cầu hợp tác liên hệ qua
 Tele : https://t.me/demdemblv
 *********************************************
-
-#EXTINF:-1 group-title="K+" tvg-logo="https://github.com/DolphinMedia/okitamedia/blob/main/B%E1%BA%A2N%20G%E1%BB%90C.png?raw=true", K+ Sports 2
+#EXTINF:-1 group-title="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE SmackDown luồng TNT FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://khanggtivi.xyz/nguyenthanhtung/jeyuso/okita/index.m3u8
+https://7pal.short.gy/tntspts1
 
-#EXTINF:-1 group-title="Formula 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png", ThapCam | Hungarian GP 2024
+#EXTINF:-1 group-title="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", SmackDown luồng WWE Network FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz/
-#EXTVLCOPT:http-origin=https://xem.bdhub.xyz
-https://obevcimanyd179569584.thapcam.link/P1rjfxOTqOjcdZfmVvXhiw/Fv2lucGIbhPi2caWYvF5Lg/1721413888586/live/meoFHD/chunklist.m3u8
+https://7pal.short.gy/wwenw
+
+#EXTINF:-1 group-title="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", SmackDown luồng WWE Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv14s.xyz:8080/753468/894568/146294#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", SmackDown luồng WWE Network SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://tv14s.xyz:8080/753468/894568/11645#checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/06/936c74de-c5dc-33bc-9a9c-2ea4edaaf577.png?bf=0&f=png&p=true&q=60&w=360", UK: EuroSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
