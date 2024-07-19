@@ -12,6 +12,10 @@ Tele : https://t.me/demdemblv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://7pal.short.gy/tntspts1
 
+#EXTINF:-1 group-title="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE SmackDown luồng TNT Chile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/59136#checkedby:alliptvlinks.com
+
 #EXTINF:-1 group-title="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", SmackDown luồng WWE Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://tv14s.xyz:8080/753468/894568/146294#checkedby:alliptvlinks.com
