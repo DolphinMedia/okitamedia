@@ -9,10 +9,6 @@ Nhu cầu hợp tác liên hệ qua
 Tele : https://t.me/demdemblv
 *********************************************
 
-#EXTINF:-1 group-title="90P" tvg-logo="https://image-eu-na-ctnytbefjq.4shares.live/90link/logo/90p-bw.png", Link 90P | Bấm để link mở
-#EXTVLCOPT:http-caching=1000
-https://hoaivnpt.duckdns.org/live-football/live-football.php
-
 
 #EXTINF:-1 group-title="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WWE_official_logo.svg", WWE luồng Sportsnet ONE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
@@ -37,7 +33,7 @@ http://tv14s.xyz:8080/753468/894568/11645#checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", (Server 🇻🇳 ) MUTV | Ổn định
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://vnlive.khanggtivi.xyz/live/MUTV/index.m3u8
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", #backup2 MUTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
