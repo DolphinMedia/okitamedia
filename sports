@@ -31,16 +31,19 @@ http://tv14s.xyz:8080/753468/894568/146294#checkedby:alliptvlinks.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://tv14s.xyz:8080/753468/894568/11645#checkedby:alliptvlinks.com
 
+#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", (Server 🇻🇳 ) MUTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://vnlive.khanggtivi.xyz/live/MUTV/index.m3u8
 
-#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", MUTV HD
+#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", #backup MUTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://fortv.cc:8080/5ybSS2/616430/53717#checkedby:alliptvlinks.com
 
-#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", #backup MUTV HD 
+#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", #backup2 MUTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2895#checkedby:alliptvlinks.com
 
-#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", #backup2 MUTV HD 
+#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", #backup3 MUTV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://abcnew.site:8880/D12m2185/99818221/2895#checkedby:alliptvlinks.com
 
