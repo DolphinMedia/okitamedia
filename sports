@@ -35,25 +35,10 @@ http://tv14s.xyz:8080/753468/894568/146294#checkedby:alliptvlinks.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://tv14s.xyz:8080/753468/894568/11645#checkedby:alliptvlinks.com
 
-#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", (Server 🇻🇳 ) MUTV | Ổn định
+#EXTINF:-1 group-title="Kênh stream khác" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", (Server 🇻🇳 ) MUTV | Ổn định
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", #backup2 MUTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2895#checkedby:alliptvlinks.com
-
-#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE", #backup3 MUTV HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://abcnew.site:8880/D12m2185/99818221/2895#checkedby:alliptvlinks.com
-
-#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://static.wikia.nocookie.net/disney/images/3/3a/2000px-ESPN_Deportes_logo.png/revision/latest?cb=20121007054058", ESPN DEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/2537#checkedby:alliptvlinks.com
-
-#EXTINF:-1 group-title="Giao hữu tiền mùa giải" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Sport_TV2_%282023%29.svg", Sport TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://premiumiptvmk.com:8080/F19236/516c41c7/1486#checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/06/936c74de-c5dc-33bc-9a9c-2ea4edaaf577.png?bf=0&f=png&p=true&q=60&w=360", UK: EuroSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
