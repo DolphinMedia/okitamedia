@@ -58,6 +58,17 @@ http://tv14s.xyz:8080/753468/894568/11645#checkedby:alliptvlinks.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yesimes.oknirvana.club:8880/D12m2555/52433416/49713#checkedby:alliptvlinks.com
 
+#EXTINF:-1 group-title="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png", FOX DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/29694#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png", #backup FOX DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://abcnew.site:8880/D12m2668/24493676/29694#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png", #backup FOX DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+
 #EXTINF:-1 group-title="Olympic Paris 2024" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/06/936c74de-c5dc-33bc-9a9c-2ea4edaaf577.png?bf=0&f=png&p=true&q=60&w=360", EuroSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://abcnew.site:8880/D12m2668/24493676/28192#checkedby:alliptvlinks.com
@@ -151,3 +162,7 @@ https://hqth.me/PL045-PolsatSP-PRE-2-Loid
 #EXTINF:-1 group-title="Truyền hình Mỹ" tvg-logo="https://npr.brightspotcdn.com/dims4/default/1fbfde2/2147483647/strip/true/crop/640x480+0+0/resize/880x660!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwvxu%2Ffiles%2F201905%2Ffso_ohio_logo_stacked.jpg",  Fox Sports Sportstime Ohio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/30090#checkedby:alliptvlinks.com
+
+#EXTINF:-1 group-title="Truyền hình Bồ Đào Nha" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",  SportTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://abcnew.site:8880/D12m2185/99818221/3192#checkedby:alliptvlinks.com
